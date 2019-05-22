@@ -36,6 +36,8 @@ Via [npm](https://npmjs.org):
   });
 ```
 
+https://www.noxinfluencer.com/
+
 ## License
 
 Released under the MIT License
